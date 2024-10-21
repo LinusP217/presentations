@@ -23,13 +23,13 @@ For published papers, please consult my [Google Scholar](https://scholar.google.
 
  - **Poster** ACS Spring Meeting. San Diego, California; March 2025.
 
-## Past
+## Past Events
 
-### 2024
+### 2024 <picture> <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f60e/512.webp" type="image/webp"> <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f60e/512.gif" alt="😎" width="32" height="32"> </picture>
 
  -  **Talk** Electronic Structure and CO<sub>2</sub> Reactivity of Group IV/V/VI Tetraperoxometalates. ACS Fall Meeting Denver, Colorado; August 2024. [PDF slides](https://github.com/LinusP217/presentations/blob/main/slides/JH_ACS_2024.pdf)
 
- - **Poster** Density-Functional Theory Pedagogy with Jupyter Notebooks. *Biennial Conference on Chemical Education.* University of Kentucky, Kentucky; July 2024. PDF (↓↓)
+ - **Poster** Density-Functional Theory Pedagogy with Jupyter Notebooks. *Biennial Conference on Chemical Education.* University of Kentucky, Kentucky; July 2024. PDF (↓↓ see 2023 poster)
 
  - **SFP** (Single Figure Presentation) Opening the Density-Functional Theory Black Box. *Virtual Winter School on Computational Chemistry.* Remote event; January 2024. [PDF](https://github.com/LinusP217/presentations/blob/main/posters/JH_VWSCC_SFP_2024.pdf)
 
