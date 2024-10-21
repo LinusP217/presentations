@@ -29,5 +29,6 @@ For published papers, please consult my [Google Scholar](https://scholar.google.
 
 ## 2022
 
- - **Poster** Mechansim of Carbon Capture via Tetraperoxovanadates, American Conference on Theoretical Chemistry. Tahoe, California, July 2022. [PDF]()
+ - **Poster** 'Mechansim of Carbon Capture via Tetraperoxovanadates.'
+	 American Conference on Theoretical Chemistry. Tahoe, California, July 2022. [PDF]()
 
