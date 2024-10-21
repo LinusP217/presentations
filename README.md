@@ -17,7 +17,7 @@ For published papers, please consult my [Google Scholar](https://scholar.google.
 
  - **Poster** ACS Spring Meeting. San Diego, California; March 2025.
 
-## Past Events <picture> <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f60e/512.webp" type="image/webp"> <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f60e/512.gif" alt="😎" width="25" height="25"> </picture>
+## Past Events 🌄
 
 ### 2024 
 
