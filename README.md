@@ -25,7 +25,7 @@ For published papers, please consult my [Google Scholar](https://scholar.google.
 
 ## Past Events
 
-### 2024 <picture> <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f60e/512.webp" type="image/webp"> <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f60e/512.gif" alt="😎" width="32" height="32"> </picture>
+### 2024 <picture> <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f60e/512.webp" type="image/webp"> <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f60e/512.gif" alt="😎" width="20" height="20"> </picture>
 
  -  **Talk** Electronic Structure and CO<sub>2</sub> Reactivity of Group IV/V/VI Tetraperoxometalates. ACS Fall Meeting Denver, Colorado; August 2024. [PDF slides](https://github.com/LinusP217/presentations/blob/main/slides/JH_ACS_2024.pdf)
 
