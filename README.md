@@ -1,5 +1,4 @@
-# Overview
-Feel free to look through presentations and posters I've given. Maybe you'll get some good ideas for . 
+Feel free to look through presentations and posters I've given. Maybe you'll get some good ideas for your own work.
 
 For published papers, please consult my [Google Scholar](https://scholar.google.com/citations?user=_PBxidMAAAAJ&hl=en) page.
 
@@ -7,7 +6,7 @@ For published papers, please consult my [Google Scholar](https://scholar.google.
 
 ### 2027
 
- - **Talk** ACS Fall Meeting. San Diego, California. August 2027.
+ - **Talk** *ACS Fall Meeting.* San Diego, California. August 2027.
 
 ### 2026
 
@@ -15,13 +14,13 @@ For published papers, please consult my [Google Scholar](https://scholar.google.
 
 ### 2025
 
- - **Poster** ACS Spring Meeting. San Diego, California; March 2025.
+ - **Poster** *ACS Spring Meeting.* San Diego, California; March 2025.
 
 ## Past Events 🌄
 
 ### 2024 
 
- -  **Talk** Electronic Structure and CO<sub>2</sub> Reactivity of Group IV/V/VI Tetraperoxometalates. ACS Fall Meeting Denver, Colorado; August 2024. [PDF slides](https://github.com/LinusP217/presentations/blob/main/slides/JH_ACS_2024.pdf)
+ -  **Talk** Electronic Structure and CO<sub>2</sub> Reactivity of Group IV/V/VI Tetraperoxometalates. *ACS Fall Meeting.* Denver, Colorado; August 2024. [PDF slides](https://github.com/LinusP217/presentations/blob/main/slides/JH_ACS_2024.pdf)
 
  - **Poster** Density-Functional Theory Pedagogy with Jupyter Notebooks. *Biennial Conference on Chemical Education.* University of Kentucky, Kentucky; July 2024. PDF (↓↓ see 2023 poster)
 
