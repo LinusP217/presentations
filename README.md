@@ -10,7 +10,7 @@ For published papers, please consult my [Google Scholar](https://scholar.google.
 
 ### 2026
 
- - **Talk** *Biennial Conference on Chemical Education.* July 2026.
+ - **Talk** *Biennial Conference on Chemical Education.* Wisconsin. July 2026.
 
 ### 2025
 
